@@ -4,9 +4,11 @@ Instalación:
 
 Debes ejecutar los siguientes comandos en tu terminal:
 
-git clone https://github.com/ju4nth3ripper/machinesearch
-cd machinesearch
-chmod +x machinesearch.sh
+$ git clone https://github.com/ju4nth3ripper/machinesearch
+
+$ cd machinesearch
+
+$ chmod +x machinesearch.sh
 
 Eso es todo, ya podrás usarlo, mira el video de demostración para que te orientes.
 
